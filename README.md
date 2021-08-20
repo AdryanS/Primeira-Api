@@ -34,7 +34,7 @@ npm rum dev
 
 ### dependeicias que ultilizei:
 
-### nodeJS:
+### NodeJS:
 
 <div styles="display: grid; ;place-items: center; place-content:center; spacing:50px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/1280px-Node.js_logo_2015.svg.png" width="200px"/>
@@ -43,6 +43,19 @@ npm rum dev
 ###
 
 **O Node.js** é um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web, como diz no site [ver mais.](https://nodejs.org)
+
+###
+#
+
+### TypeScritp:
+
+<div styles="display: grid; ;place-items: center; place-content:center; spacing:50px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="200px"/>
+</div>
+
+###
+
+**O TypeScript** TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft. É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem, , como diz no site [ver mais.](https://www.typescriptlang.org)
 
 ###
 #
