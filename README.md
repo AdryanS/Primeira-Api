@@ -23,7 +23,7 @@ yarn
 # and
 yarn dev
 
-# para uqem ultiliza npm:
+# para quem ultiliza npm:
 
 npm
 # and
