@@ -2,13 +2,13 @@
 
 ###
 
-### Para fazer uma integração em um banco de dados mongoDB basta configurar uma variavel de ambiente:
+### Para fazer uma integração em um banco de dados mongoDB basta configurar uma variável de ambiente:
 
 ###
 
 **1 - crie uma pasta na raiz do projeto chamada .env** .
 
-**2 - dentro da pasta .env digite: DATABASE_URL = valor valor da variavel do banco de dados** .
+**2 - dentro da pasta .env digite: DATABASE_URL = valor valor da variável do banco de dados** .
 
 **4 - rode o projeto** .
 
@@ -17,13 +17,13 @@
 ### Codigos para iniciar o projeto:
 
 ```bash 
-# para quem ultiliza yarn: 
+# para quem utiliza yarn: 
 
 yarn
 # and
 yarn dev
 
-# para quem ultiliza npm:
+# para quem utiliza npm:
 
 npm
 # and
@@ -32,7 +32,7 @@ npm rum dev
 
 
 
-### dependeicias que ultilizei:
+### dependências que utilizei:
 
 ### NodeJS:
 
@@ -47,7 +47,7 @@ npm rum dev
 ###
 #
 
-### TypeScritp:
+### TypeScript:
 
 <div styles="display: grid; ;place-items: center; place-content:center; spacing:50px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/200px-Typescript_logo_2020.svg.png" width="200px"/>
