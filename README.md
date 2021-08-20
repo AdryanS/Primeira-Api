@@ -50,7 +50,7 @@ npm rum dev
 ### TypeScritp:
 
 <div styles="display: grid; ;place-items: center; place-content:center; spacing:50px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="200px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/200px-Typescript_logo_2020.svg.png" width="200px"/>
 </div>
 
 ###
