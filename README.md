@@ -14,7 +14,7 @@
 
 #
 
-### Codigos para iniciar o projeto:
+### Códigos para iniciar o projeto:
 
 ```bash 
 # para quem utiliza yarn: 
@@ -82,6 +82,6 @@ cometer tantos erros com um ORM de código aberto para diversos SQL como Postgre
 
 ### 
 
-**O Express** e um framework web rápido, flexível e minimalista para Node.js, como diz no site do express [ver mais.](https://expressjs.com)
+**O Express** é um framework web rápido, flexível e minimalista para Node.js, como diz no site do Express [ver mais.](https://expressjs.com)
 
 ###
