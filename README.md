@@ -1,6 +1,9 @@
 # 💻 Minha primeira API
 
-<br>
+## 📕 projeto
+
+Estou ainda aprendendo o backend, fiz esse projeto como aprendizado.
+O projeto foi feito com TypeScript e tem métodos de GET, POST, PUT e DELETE.
 
 ## ⚙ Configuração
 
@@ -8,12 +11,12 @@
 
 - Crie uma pasta na raiz do projeto chamada .env .
 
-- Dentro da pasta .env digite: DATABASE_URL = valor_valor_da_variável_do_banco_de_dados .
+- Dentro da pasta .env digite: DATABASE_URL = valor_da_variável_do_banco_de_dados .
 
 - Rode o projeto .
 
 
-## 🚀 Como excutar:
+## 🚀 Como executar:
 
 ```bash 
 ## para quem utiliza yarn: 
