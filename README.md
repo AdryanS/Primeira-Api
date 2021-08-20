@@ -1,12 +1,53 @@
 # Minha Primeira Api 😎
 
-### Essa API contem metodos (GET, POST, PUT e DELETE)
+###
+
+## Para fazer uma integração em um banco de dados mongoDB basta configurar uma variavel de ambiente:
+
+###
+
+**1 - crie uma pasta na raiz do projeto chamada .env** .
+
+**2 - dentro da pasta .env digite: DATABASE_URL = valor valor da variavel do banco de dados** .
+
+**4 - rode o projeto** .
+
+#
+
+### Codigos para iniciar o projeto:
+
+```bash 
+# para quem ultiliza yarn: 
+
+yarn
+# and
+yarn dev
+
+# para uqem ultiliza npm:
+
+npm
+# and
+npm rum dev
+```
 
 
 
 ### dependeicias que ultilizei:
 
-### Prisma:
+### nodeJS:
+
+<div styles="display: grid; ;place-items: center; place-content:center; spacing:50px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/1280px-Node.js_logo_2015.svg.png" width="200px"/>
+</div>
+
+###
+
+**O Node.js** é um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web, como diz no site [ver mais.](https://nodejs.org)
+
+###
+#
+
+### Prisma.io:
 
 <div styles="display: grid; ;place-items: center; place-content:center; spacing:50px">
   <img src="https://tsed.io/prisma-2.svg" width="200px"/>
@@ -20,7 +61,7 @@ cometer tantos erros com um ORM de código aberto para diversos SQL como Postgre
 ### 
 #
 
-### Express:
+### ExpressJS:
 
 <div styles="display: grid; ;place-items: center; place-content:center; spacing:50px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="200px"/>
