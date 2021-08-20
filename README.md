@@ -84,8 +84,4 @@ cometer tantos erros com um ORM de código aberto para diversos SQL como Postgre
 
 **O Express** e um framework web rápido, flexível e minimalista para Node.js, como diz no site do express [ver mais.](https://expressjs.com)
 
-
-
 ###
-###
-repositorio necessario dar yarn e adicior um .env com a varievel de ambiente onde tem o indereço do banco de dados 
