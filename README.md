@@ -1,22 +1,34 @@
 # Minha Primeira Api 😎
 
-### Essa API contem metodos de get/post/put/delete
+### Essa API contem metodos (GET, POST, PUT e DELETE)
 
 
 
-### dependeicias que ultilizei 🚀
+### dependeicias que ultilizei:
 
+### Prisma:
 
-**Prisma:**
+<div styles="display: grid; ;place-items: center; place-content:center; spacing:50px">
+  <img src="https://tsed.io/prisma-2.svg" width="200px"/>
+</div>
+
+### 
 
 **O Prisma** ajuda os desenvolvedores de aplicativos a construir mais rápido as aplicações e não
 cometer tantos erros com um ORM de código aberto para diversos SQL como PostgreSQL, MySQL e SQLite, como diz no site [ver mais.](https://www.prisma.io)
 
 ### 
+#
 
-**Express:**
+### Express:
 
-**O Express** e um framework web rápido, flexível e minimalista para Node.js como diz no site do express [ver mais.](https://expressjs.com)
+<div styles="display: grid; ;place-items: center; place-content:center; spacing:50px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="200px"/>
+</div>
+
+### 
+
+**O Express** e um framework web rápido, flexível e minimalista para Node.js, como diz no site do express [ver mais.](https://expressjs.com)
 
 
 
