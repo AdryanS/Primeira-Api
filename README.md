@@ -3,7 +3,7 @@
 ## 📕 projeto
 
 Estou ainda aprendendo o backend, fiz esse projeto como aprendizado.
-O projeto foi feito com TypeScript e tem métodos de GET, POST, PUT e DELETE.
+O projeto foi feito com TypeScript e tem as operações CRUD.
 
 ## ⚙ Configuração
 
