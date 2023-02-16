@@ -2,7 +2,7 @@
 
 ## 📕 projeto
 
-Estou ainda aprendendo o backend, fiz esse projeto como aprendizado.
+Fiz esse projeto como aprendizado.
 O projeto foi feito com TypeScript e tem as operações CRUD.
 
 ## ⚙ Configuração
